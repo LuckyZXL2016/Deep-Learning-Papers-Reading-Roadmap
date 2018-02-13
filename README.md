@@ -134,3 +134,48 @@ https://arxiv.org/abs/1508.06615
 - （暂无）Chen, Xinlei, and C. Lawrence Zitnick. “Learning a recurrent visual representation for image caption generation”. In arXiv preprint arXiv:1411.5654, 2014. [pdf](https://arxiv.org/pdf/1411.5654v1.pdf)
 - （暂无）Mao, Junhua, et al. “Deep captioning with multimodal recurrent neural networks (m-rnn)”. In arXiv preprint arXiv:1412.6632, 2014. [pdf](https://arxiv.org/pdf/1412.6632v5.pdf)
 - （暂无）Xu, Kelvin, et al. “Show, attend and tell: Neural image caption generation with visual attention”. In arXiv preprint arXiv:1502.03044, 2015. [pdf](https://arxiv.org/pdf/1502.03044v3.pdf)
+
+### 3.5 机器翻译
+- Luong, Minh-Thang, et al. “Addressing the rare word problem in neural machine translation.” arXiv preprint arXiv:1410.8206 (2014). 
+- Sennrich, et al. “Neural Machine Translation of Rare Words with Subword Units”. In arXiv preprint arXiv:1508.07909, 2015. 
+- Luong, Minh-Thang, Hieu Pham, and Christopher D. Manning. “Effective approaches to attention-based neural machine translation.” arXiv preprint arXiv:1508.04025 (2015). 
+- Chung, et al. “A Character-Level Decoder without Explicit Segmentation for Neural Machine Translation”. In arXiv preprint arXiv:1603.06147, 2016. 
+- Lee, et al. “Fully Character-Level Neural Machine Translation without Explicit Segmentation”. In arXiv preprint arXiv:1610.03017, 2016. 
+- Wu, Schuster, Chen, Le, et al. “Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation”. In arXiv preprint arXiv:1609.08144v2, 2016. 
+
+### 3.6 机器人
+- Koutník, Jan, et al. “Evolving large-scale neural networks for vision-based reinforcement learning.” Proceedings of the 15th annual conference on Genetic and evolutionary computation. ACM, 2013. 
+- Levine, Sergey, et al. “End-to-end training of deep visuomotor policies.” Journal of Machine Learning Research 17.39 (2016): 1-40. 
+- Pinto, Lerrel, and Abhinav Gupta. “Supersizing self-supervision: Learning to grasp from 50k tries and 700 robot hours.” arXiv preprint arXiv:1509.06825 (2015). 
+- Levine, Sergey, et al. “Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection.” arXiv preprint arXiv:1603.02199 (2016). 
+- Zhu, Yuke, et al. “Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning.” arXiv preprint arXiv:1609.05143 (2016). 
+- Yahya, Ali, et al. “Collective Robot Reinforcement Learning with Distributed Asynchronous Guided Policy Search.” arXiv preprint arXiv:1610.00673 (2016). 
+- Gu, Shixiang, et al. “Deep Reinforcement Learning for Robotic Manipulation.” arXiv preprint arXiv:1610.00633 (2016). 
+- A Rusu, M Vecerik, Thomas Rothörl, N Heess, R Pascanu, R Hadsell.”Sim-to-Real Robot Learning from Pixels with Progressive Nets.” arXiv preprint arXiv:1610.04286 (2016). 
+- Mirowski, Piotr, et al. “Learning to navigate in complex environments.” arXiv preprint arXiv:1611.03673 (2016). 
+
+### 3.7 艺术
+- Mordvintsev, Alexander; Olah, Christopher; Tyka, Mike (2015). “Inceptionism: Going Deeper into Neural Networks”. Google Research. 
+- 当前最为成功的艺术风格迁移方案，Prisma：Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. “A neural algorithm of artistic style.” arXiv preprint arXiv:1508.06576 (2015). 
+- iGAN：Zhu, Jun-Yan, et al. “Generative Visual Manipulation on the Natural Image Manifold.” European Conference on Computer Vision. Springer International Publishing, 2016. 
+- Neural Doodle：Champandard, Alex J. “Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks.” arXiv preprint arXiv:1603.01768 (2016). 
+- Zhang, Richard, Phillip Isola, and Alexei A. Efros. “Colorful Image Colorization.” arXiv preprint arXiv:1603.08511 (2016). 
+- 超分辨率，李飞飞：Johnson, Justin, Alexandre Alahi, and Li Fei-Fei. “Perceptual losses for real-time style transfer and super-resolution.” arXiv preprint arXiv:1603.08155 (2016). 
+- Vincent Dumoulin, Jonathon Shlens and Manjunath Kudlur. “A learned representation for artistic style.” arXiv preprint arXiv:1610.07629 (2016). 
+- 基于空间位置、色彩信息与空间尺度的风格迁移：Gatys, Leon and Ecker, et al.”Controlling Perceptual Factors in Neural Style Transfer.” arXiv preprint arXiv:1611.07865 (2016). 
+- 纹理生成与风格迁移：Ulyanov, Dmitry and Lebedev, Vadim, et al. “Texture Networks: Feed-forward Synthesis of Textures and Stylized Images.” arXiv preprint arXiv:1603.03417(2016). 
+
+### 3.8 目标分割
+- J. Long, E. Shelhamer, and T. Darrell, “Fully convolutional networks for semantic segmentation.” in CVPR, 2015. 
+- L.-C. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and A. L. Yuille. “Semantic image segmentation with deep convolutional nets and fully connected crfs.” In ICLR, 2015. 
+- Pinheiro, P.O., Collobert, R., Dollar, P. “Learning to segment object candidates.” In: NIPS. 2015. 
+- Dai, J., He, K., Sun, J. “Instance-aware semantic segmentation via multi-task network cascades.” in CVPR. 2016 
+- Dai, J., He, K., Sun, J. “Instance-sensitive Fully Convolutional Networks.” arXiv preprint arXiv:1603.08678 (2016). 
+
+## 其他
+### 4.0 补充
+- Big Data Mining.Deep Learning with Tensorflow(Google TensorFlow  深度学习)
+- Introduction to TensorFlow, Alejandro Solano - EuroPython 2017
+- Learning with TensorFlow, A Mathematical Approach to Advanced Artificial Intelligence in Python
+- Deep Learning with Python
+- Deep Learning with TensorFlow
